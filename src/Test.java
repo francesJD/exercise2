@@ -25,7 +25,7 @@ public class Test {
         // Test the Triangle
         Triangle triangle1 = new Triangle(2.0, 4.0, 5.0);
         triangle1.display();
-        System.out.println();
+
         // If not valid, it will throw an error;
         Triangle triangle2 = new Triangle(1.0, 2.0, 3.0);
         triangle2.display();
